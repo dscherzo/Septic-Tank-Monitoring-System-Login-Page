@@ -16,6 +16,8 @@ document.getElementById('registerForm').addEventListener('submit', function(even
         .catch((error) => {
             alert(error.message); // Show error message
         });
+
+
 });
 
 // Add event listener for Back to Login button

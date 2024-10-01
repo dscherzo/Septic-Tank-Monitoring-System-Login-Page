@@ -122,6 +122,7 @@
 .forgot-password-container button:hover {
     background-color: var(--accent-color);
     color: var(--primary-color);
+
 }
 
 .register-options,
